@@ -1,0 +1,23 @@
+.MP_SubTitle{
+    font-size : 200%;
+}
+
+.MP_Mt10{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+
+.MP_ST_Mt10{
+    margin-left: 20px;
+}
+
+@media only screen and (max-width : 1200px) {
+    .MP_SubTitle{
+        font-size : 130%;
+    }
+    .MP_Mt10{
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    
+    }

@@ -1,0 +1,19 @@
+/* .tab_margin{
+    margin-top: 0px;
+} */
+
+.p_Mb10{
+    margin-bottom: 10px;
+}
+
+.p_pd0{
+    padding: 0px;
+}
+
+@media only screen and (max-width : 1200px) {
+    .tab_margin{
+        margin-top: 10px;
+    }
+    
+    
+    }

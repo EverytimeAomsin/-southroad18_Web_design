@@ -1,0 +1,68 @@
+@font-face{
+	font-family: 'RSU_light';
+	src: local('RSU_light'),
+	url('./font/RSU_light.woff') format('woff')
+}
+
+@font-face{
+	font-family: 'RSU_Regular';
+	src: local('RSU_Regular'),
+	url('./font/RSU_Regular.woff') format('woff')
+}
+
+
+@font-face{
+	font-family: 'RSU_BOLD';
+	src: local('RSU_BOLD'),
+	url('./font/RSU_BOLD.woff') format('woff')
+}
+
+@font-face{
+	font-family: 'RSU_Text_Bold';
+	src: local('RSU_Text_Bold'),
+	url('./font//RSU_Text_Bold.woff') format('woff')
+}
+
+@font-face{
+	font-family: 'RSU_Text_Regular';
+	src: local('RSU_Text_Regular'),
+	url('./font/RSU_Text_Regular.woff') format('woff')
+}
+
+@font-face{
+	font-family: 'RSU_Text_Italic';
+	src: local('RSU_Text_Italic'),
+	url('./font/RSU_Text_Italic.woff') format('woff')
+}
+
+ *,.RSU_Regular{
+  font-family: RSU_Regular;
+  font-size: 100%;
+}
+
+.RSU_Regular_Sm{
+	font-family: RSU_Regular;
+	font-size: 50%;
+  }
+
+.RSU_BOLD{
+    font-family: RSU_BOLD;
+}
+
+.RSU_light{
+    font-family: RSU_light;
+}
+
+.RSU_Text_Bold{
+    font-family: RSU_Text_Bold;
+}
+
+.RSU_Text_Regular{
+    font-family: RSU_Text_Regular;
+}
+
+.RSU_Text_Italic{
+    font-family: RSU_Text_Italic;
+}
+
+
